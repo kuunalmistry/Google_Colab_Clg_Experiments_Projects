@@ -64,6 +64,7 @@
 
 <p>This repository is maintained to:</p>
 
+
 <table>
 <tr><td>📚</td><td>Keep all academic Colab work in one place</td></tr>
 <tr><td>💻</td><td>Practice concepts through implementation</td></tr>
@@ -96,9 +97,11 @@
 
 <h2>Learning Journey</h2>
 
+
 <div align="center"><h3>LEARN → UNDERSTAND → IMPLEMENT → EXPERIMENT → ANALYZE → IMPROVE</h3><p><strong>Every notebook represents another step in the journey from theory to practical implementation.</strong></p></div>
 
 <h2>Updates</h2>
+
 
 <p>This repository is <strong>actively maintained</strong> and will be updated as new assignments, practicals, and coursework are completed.</p>
 
@@ -106,8 +109,10 @@
 
 <h2>Author</h2>
 
+
 <div align="center"><h3>Kuunal Mistry</h3><p><strong>BTech Student</strong></p><p>Artificial Intelligence &amp; Machine Learning / Computer Science</p></div>
 
 <hr>
+
 
 <div align="center"><br><h3>Built with curiosity. Maintained with consistency.</h3><p><em>Learning by implementing, experimenting, and building.</em></p><br><img src="https://img.shields.io/badge/Made%20for-Learning-6f42c1?style=flat-square" alt="Made for Learning"/> <img src="https://img.shields.io/badge/Powered%20by-Curiosity-F9AB00?style=flat-square" alt="Powered by Curiosity"/> <img src="https://img.shields.io/badge/Updated-2026-3776AB?style=flat-square" alt="Updated 2026"/><br><br><sub>© 2026 Kuunal Mistry • Academic Coursework Repository</sub></div>
