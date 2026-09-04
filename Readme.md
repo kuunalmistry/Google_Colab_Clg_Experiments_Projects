@@ -1,7 +1,6 @@
 <div align="center"><br><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="110"/><h1>Google Colab Assignments</h1><p><strong>Academic Work • Practicals • Experiments • Learning</strong></p><p><em>A centralized collection of my Google Colab coursework and practical implementations.</em></p><br><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br><br><img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" alt="Status"/> <img src="https://img.shields.io/badge/Academic-Coursework-6f42c1?style=flat-square" alt="Academic Coursework"/> <img src="https://img.shields.io/badge/Notebooks-Colab-F9AB00?style=flat-square" alt="Notebooks"/></div>
 
 ---
-
 <h2>About</h2>
 
 <p>This repository contains my <strong>Google Colab assignments, practicals, experiments, and academic coursework</strong> completed throughout my BTech program.</p>
@@ -64,7 +63,6 @@
 
 <p>This repository is maintained to:</p>
 
-
 <table>
 <tr><td>📚</td><td>Keep all academic Colab work in one place</td></tr>
 <tr><td>💻</td><td>Practice concepts through implementation</td></tr>
@@ -97,11 +95,9 @@
 
 <h2>Learning Journey</h2>
 
-
 <div align="center"><h3>LEARN → UNDERSTAND → IMPLEMENT → EXPERIMENT → ANALYZE → IMPROVE</h3><p><strong>Every notebook represents another step in the journey from theory to practical implementation.</strong></p></div>
 
 <h2>Updates</h2>
-
 
 <p>This repository is <strong>actively maintained</strong> and will be updated as new assignments, practicals, and coursework are completed.</p>
 
@@ -109,10 +105,8 @@
 
 <h2>Author</h2>
 
-
 <div align="center"><h3>Kuunal Mistry</h3><p><strong>BTech Student</strong></p><p>Artificial Intelligence &amp; Machine Learning / Computer Science</p></div>
 
 <hr>
-
 
 <div align="center"><br><h3>Built with curiosity. Maintained with consistency.</h3><p><em>Learning by implementing, experimenting, and building.</em></p><br><img src="https://img.shields.io/badge/Made%20for-Learning-6f42c1?style=flat-square" alt="Made for Learning"/> <img src="https://img.shields.io/badge/Powered%20by-Curiosity-F9AB00?style=flat-square" alt="Powered by Curiosity"/> <img src="https://img.shields.io/badge/Updated-2026-3776AB?style=flat-square" alt="Updated 2026"/><br><br><sub>© 2026 Kuunal Mistry • Academic Coursework Repository</sub></div>
