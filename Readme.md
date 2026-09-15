@@ -1,5 +1,4 @@
 <div align="center"><br><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="110"/><h1>Google Colab Assignments</h1><p><strong>Academic Work • Practicals • Experiments • Learning</strong></p><p><em>A centralized collection of my Google Colab coursework and practical implementations.</em></p><br><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br><br><img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" alt="Status"/> <img src="https://img.shields.io/badge/Academic-Coursework-6f42c1?style=flat-square" alt="Academic Coursework"/> <img src="https://img.shields.io/badge/Notebooks-Colab-F9AB00?style=flat-square" alt="Notebooks"/></div>
-
 ---
 <h2>About</h2>
 
