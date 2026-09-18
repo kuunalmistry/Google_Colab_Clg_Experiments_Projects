@@ -14,6 +14,7 @@
 
 <p>The repository contains a collection of academic work completed using Google Colab, including:</p>
 
+
 <ul>
 <li>Academic assignments</li>
 <li>Practical implementations</li>
