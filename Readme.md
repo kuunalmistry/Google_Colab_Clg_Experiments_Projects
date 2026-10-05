@@ -30,6 +30,7 @@
 
 <h2>How to Use</h2>
 
+
 <p>The notebooks are designed to be opened and executed using <strong>Google Colab</strong>.</p>
 
 <h3>01 — Choose a Notebook</h3>
